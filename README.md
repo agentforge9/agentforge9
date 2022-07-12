@@ -11,6 +11,7 @@
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/agentforge9/agentforge9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake" />
+
   <img src="https://raw.githubusercontent.com/agentforge9/agentforge9/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake" />
 </p>
 

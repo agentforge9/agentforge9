@@ -204,4 +204,7 @@ LLM / RAG Systems       ██████████████████�
 Python / FastAPI        ███████████████████░
 React / TypeScript      ███████████████████░
 System Architecture     ███████████████████░
-Cloud / Distributed     ██████████████████░░
+Cloud / Distributed     ██████████████████░░Built with collaboration and open-source learning.
+
+## Collaboration
+Built with collaboration and open-source learning.

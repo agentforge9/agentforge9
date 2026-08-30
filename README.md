@@ -221,7 +221,7 @@ Cloud / Distributed     ██████████████████�
 
 ## Collaboration
 Built with collaboration and open-source learning.
-
+```
 <!-- Contribution Snake -->
 
 <h2 align="center">🐍 Contribution Activity</h2>

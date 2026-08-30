@@ -9,10 +9,23 @@
 </p>
 
 <!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agentforge9/agentforge9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake" />
+<!-- GitHub Contribution Snake -->
 
-  <img src="https://raw.githubusercontent.com/agentforge9/agentforge9/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---

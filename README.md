@@ -8,28 +8,6 @@
   Building intelligent systems from idea → architecture → production 🚀
 </p>
 
-<!-- GitHub Contribution Snake -->
-<!-- GitHub Contribution Snake -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/agentforge9/agentforge9/gh-pages/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🤖 I build <strong>production AI/ML and agentic systems</strong> — from experimentation and orchestration to APIs, deployment, evaluation, and observability.
